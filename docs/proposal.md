@@ -1,7 +1,7 @@
 # Analysis of Real Estate Sales Data
 
  
-<!-- ## 0. Title and Author -->
+## 1. Title and Author
 
 <!-- - Analysis of Real Estate Sales Data -->
 - Prepared for UMBC Data Science Master Degree Capstone by *Dr Chaojie (Jay) Wang*
@@ -11,7 +11,7 @@
 - Link to your PowerPoint presentation file
 - Link to your  YouTube video  -->
     
-## 1. Background
+## 2. Background
 
 The project aims to analyze real estate sales data in Connecticut from 2001 to 2020 to gain insights into the real estate market trends, property types, and sales prices over the years.
 Understanding the patterns and trends in real estate sales is essential for various stakeholders, including homebuyers, investors, and policymakers. It can help in making informed decisions regarding property investments, policy adjustments, and market predictions.
@@ -22,7 +22,7 @@ Understanding the patterns and trends in real estate sales is essential for vari
 3. Can we identify any seasonal patterns in real estate sales?
 4. Is there a correlation between property assessments and actual sales prices?
 
-## 2. Data 
+## 3. Data 
 
 Describe the datasets you are using to answer your research questions.
 
@@ -55,7 +55,7 @@ Describe the datasets you are using to answer your research questions.
 - Which variables/columns may selected as features/predictors for your ML models? -
 <span style="color:green;">*Potential predictor variables could include "List Year," "Assessed Value," "Property Type," and other relevant columns that could influence property sales prices.*</span>
 
-<!-- ## 3. Exploratory Data Analysis (EDA)
+<!-- ## 4. Exploratory Data Analysis (EDA)
 
 - Perform data exploration using Jupyter Notebook
 - You would focus on the target variable and the selected features and drop all other columns.
@@ -72,7 +72,7 @@ Describe the datasets you are using to answer your research questions.
   - each row represent one observation (ideally one unique entity/subject).
   - each columm represents one unique property of that entity. 
 
-## 4. Model Training 
+## 5. Model Training 
 
 - What models you will be using for predictive analytics?
 - How will you train the models?
@@ -81,7 +81,7 @@ Describe the datasets you are using to answer your research questions.
   - The development environments (your laptop, Google CoLab, GitHub CodeSpaces, etc.)
 - How will you measure and compare the performance of the models?
 
-## 5. Application of the Trained Models
+## 6. Application of the Trained Models
 
 Develop a web app for people to interact with your trained models. Potential tools for web app development:
 
@@ -89,14 +89,14 @@ Develop a web app for people to interact with your trained models. Potential too
 - Dash
 - Flask
 
-## 6. Conclusion
+## 7. Conclusion
 
 - Summarize your work and its potetial application
 - Point out the limitations of your work
 - Lessons learned 
 - Talk about future research direction -->
 
-## 7. References 
+## 8. References 
 
 - Real Estate Sales 2001-2020 GL | Connecticut Data. (2022, October 20). https://data.ct.gov/Housing-and-Development/Real-Estate-Sales-2001-2020-GL/5mzw-sjtu
 
