@@ -26,11 +26,11 @@ Understanding the patterns and trends in real estate sales is essential for vari
 
 Describe the datasets you are using to answer your research questions.
 
-- Data sources - https://portal.ct.gov/OPM/IGPP/Publications/Real-Estate-Sales-Listing
+- Data sources - Office of Policy and Management [ https://portal.ct.gov/OPM/IGPP/Publications/Real-Estate-Sales-Listing ]
 - Data size - 110.4 MB
 - Data shape (997213 of rows and 14 columns)
 
-- Data dictionary
+- Data dictionary - Here each row in the dataset represents a single real estate sale transaction.
 
 
 |   Column Name      | Data Type  | Definition                                                                                                                                      | Potential Values                                                                                                                                                             |
