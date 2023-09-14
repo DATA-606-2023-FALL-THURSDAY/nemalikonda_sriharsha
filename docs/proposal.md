@@ -5,10 +5,10 @@
 
 <!-- - Analysis of Real Estate Sales Data -->
 - Prepared for UMBC Data Science Master Degree Capstone by *Dr Chaojie (Jay) Wang*
-- Author : *Office of Policy and Management*
-<!-- - Link to the author's GitHub profile
-- Link to the author's LinkedIn progile
-- Link to your PowerPoint presentation file
+- Author : *Sriharsha Nemalikonda*
+- Link to the author's GitHub profile : https://github.com/nsriharsha04
+- Link to the author's LinkedIn profile : https://www.linkedin.com/in/sriharsha-n/
+<!-- - Link to your PowerPoint presentation file
 - Link to your  YouTube video  -->
     
 ## 2. Background
