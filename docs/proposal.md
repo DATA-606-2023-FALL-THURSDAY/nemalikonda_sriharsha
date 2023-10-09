@@ -55,8 +55,57 @@ Describe the datasets you are using to answer your research questions.
 - Which variables/columns may selected as features/predictors for your ML models? -
 <span style="color:green;">*Potential predictor variables could include "List Year," "Assessed Value," "Property Type," and other relevant columns that could influence property sales prices.*</span>
 
-<!-- ## 4. Exploratory Data Analysis (EDA)
+ ## 4. Exploratory Data Analysis (EDA)
 
+- Checked for null values in the columns
+- Processed rows and removed STOP_WORDS
+
+#### 4.3.1 Plot missing data
+
+- Plotted the missing data plot. 
+
+![Alt text](../assets/image.png)
+
+#### 4.3.2 Assessed Value vs Sale Amount
+
+![Alt text](../assets/image-1.png)
+
+
+#### 4.3.3 Number of Properties by Type
+
+![Alt text](../assets/image-2.png)
+
+#### 4.3.4 Distribution of Residential Types
+
+![Alt text](../assets/image-3.png)
+
+#### 4.3.5 Total Sales Amount Over Years
+
+![Alt text](../assets/image-4.png)
+
+#### 4.3.6 Bar Chart for List Year
+
+![Alt text](../assets/image-5.png)
+
+#### 4.3.7 Histogram for Assessed Value
+
+![Alt text](../assets/image-6.png)
+
+#### 4.3.8 Time Series Plot for Date Recorded
+
+![Alt text](../assets/image-7.png)
+
+#### 4.3.9 Distribution of Assessed Values without Outliers
+
+![Alt text](../assets/image-8.png)
+
+#### Interpretations
+* There have been highest number of sales in 2004.
+* Most of the property values are in the range of 100K to 200K
+* Residential properties have a largest share with Single Family of 73% of all properties.
+* The sale value is more than the assessed value.
+
+<!--
 - Perform data exploration using Jupyter Notebook
 - You would focus on the target variable and the selected features and drop all other columns.
 - produce summary statistics of key variables
