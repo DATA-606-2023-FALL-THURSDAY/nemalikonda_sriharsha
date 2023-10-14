@@ -65,39 +65,49 @@ Describe the datasets you are using to answer your research questions.
 - Plotted the missing data plot. 
 
 ![Alt text](../assets/image.png)
+ - -  This missing data plot shows that OPM remarks columsn has more null values. 
 
 #### 4.3.2 Assessed Value vs Sale Amount
 
 ![Alt text](../assets/image-1.png)
+- - The sale amount almost coincides with the assesed values less than 40M.
 
 
 #### 4.3.3 Number of Properties by Type
 
 ![Alt text](../assets/image-2.png)
+- - Most of the properties are owned by single family.
 
 #### 4.3.4 Distribution of Residential Types
 
 ![Alt text](../assets/image-3.png)
+- - Single families have have a shre of 73.1% properties.
+
 
 #### 4.3.5 Total Sales Amount Over Years
 
 ![Alt text](../assets/image-4.png)
+- - There has been sudden dips in properties sold in the year 2006 & 2008.
 
 #### 4.3.6 Bar Chart for List Year
 
 ![Alt text](../assets/image-5.png)
+- - 2004 observed a increase in property sales.
 
 #### 4.3.7 Histogram for Assessed Value
 
 ![Alt text](../assets/image-6.png)
+- - Most of the people bought the properties in the range of $100K to $200K.
 
 #### 4.3.8 Time Series Plot for Date Recorded
 
 ![Alt text](../assets/image-7.png)
+- - There has been an exponential increase of the properties bought between Feb 2005 to Aug 2005, followed by decline.
 
 #### 4.3.9 Distribution of Assessed Values without Outliers
 
 ![Alt text](../assets/image-8.png)
+- - Higher the property assessed value lesser is that they are bought.
 
 #### Interpretations
 * There have been highest number of sales in 2004.
