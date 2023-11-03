@@ -81,7 +81,7 @@ Describe the datasets you are using to answer your research questions.
 #### 4.3.4 Distribution of Residential Types
 
 ![Alt text](../assets/image-3.png)
-- - Single families have have a shre of 73.1% properties.
+- - Single families have a share of 73.1% properties.
 
 
 #### 4.3.5 Total Sales Amount Over Years
@@ -109,6 +109,28 @@ Describe the datasets you are using to answer your research questions.
 ![Alt text](../assets/image-8.png)
 - - Higher the property assessed value lesser is that they are bought.
 
+#### 4.3.10 Evolution of Sales Volume by Property Type
+
+![Alt text](../assets/image-9.png)
+- - Single families own more properties.
+
+#### 4.3.11 Trend in Average Sales Price by Property Type
+
+![Alt text](../assets/image-10.png)
+- - There has been increase in apartment sales.
+
+
+#### 4.3.12 Identifying Seasonal Patterns in Real Estate Sales
+
+![Alt text](../assets/image-11.png)
+- - There has been decrease in property sales after August.
+
+#### 4.3.13 Correlation between Property Assessments and Sales Prices
+
+![Alt text](../assets/image-12.png)
+- - Most of the commercial properties have sale amount similiar to assesed value.
+
+
 #### Interpretations
 * There have been highest number of sales in 2004.
 * Most of the property values are in the range of 100K to 200K
@@ -130,16 +152,26 @@ Describe the datasets you are using to answer your research questions.
 - Make sure the resulting dataset need to be "tidy":
   - each row represent one observation (ideally one unique entity/subject).
   - each columm represents one unique property of that entity. 
+-->
 
 ## 5. Model Training 
 
-- What models you will be using for predictive analytics?
-- How will you train the models?
-  - Train vs test split (80/20, 70/30, etc.)
-  - Python packages to be used (scikit-learn, NLTK, spaCy, etc.)
-  - The development environments (your laptop, Google CoLab, GitHub CodeSpaces, etc.)
-- How will you measure and compare the performance of the models?
+- Data is divided into training and testing (80/20) sets for model evaluation. 
+- The ML models implemented are:
+  - Linear Regression
+  - Ridge Regression 
+  - Gradient Boosting Regressor
+- The performance is compare based on MAE scores.
+- Features: 'List Year', 'Assessed Value', 'Sales Ratio', 'Property Type', 'Residential Type’
+- Target: Sale Amount
 
+
+![Alt text](../assets/ML.png)
+
+- The Gradient Boosting model shows a significantly lower MAE, suggesting improved predictive accuracy.
+
+
+<!--
 ## 6. Application of the Trained Models
 
 Develop a web app for people to interact with your trained models. Potential tools for web app development:
