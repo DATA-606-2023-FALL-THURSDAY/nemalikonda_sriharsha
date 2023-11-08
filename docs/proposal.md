@@ -171,21 +171,48 @@ Describe the datasets you are using to answer your research questions.
 - The Gradient Boosting model shows a significantly lower MAE, suggesting improved predictive accuracy.
 
 
-<!--
-## 6. Application of the Trained Models
 
-Develop a web app for people to interact with your trained models. Potential tools for web app development:
+## 6. Web Application.
 
-- Streamlit (recommended)
-- Dash
-- Flask
+The web application is developed using StreamLit. This application contains 3 pages:
+
+1. Data Exploration
+![Alt text](../assets/image-13.png)
+  - We can explore the dataset by selecting ‘Sale Amount’ range and ‘Property Type’
+  - Plot corresponding dynamics
+
+
+2. Dynamic Plotting
+![Alt text](../assets/image-14.png)
+  - This page has the flexibility to plot dynamically by choosing the required column on the X & Y axis
+  - Plot types like Scatter, Bar, Histogram, and line can be dynamically set.
+  - The plot can be downloaded as PNG.
+
+
+3. Unique Data
+![Alt text](../assets/image-15.png)
+  - Display the unique values in each column
+ 
 
 ## 7. Conclusion
 
-- Summarize your work and its potetial application
-- Point out the limitations of your work
-- Lessons learned 
-- Talk about future research direction -->
+- In this project, I have worked on analyzing real estate sales data, building a Streamlit app for data exploration, and visualizing the data with interactive plots. 
+- The potential applications of this work include assisting real estate professionals in gaining insights into property sales trends, understanding the distribution of property types, and exploring the relationships between different variables. 
+- It can also be useful for property buyers and investors who want to make informed decisions based on historical data.
+
+\
+Limitations:
+-  The analysis heavily relies on the quality of the data. Any missing or incorrect information can lead to inaccurate insights.
+
+\
+Lessons Learned:
+-  Data preprocessing is a crucial step in any data analysis project. Handling missing data and outliers is essential for obtaining meaningful results.
+
+\
+Future Scope:
+- Predictive Modeling: Developing machine learning models for property price prediction or anomaly detection to identify potential investment opportunities.
+- Geospatial Analysis: Incorporating geospatial data to analyze property locations and their impact on prices.
+
 
 ## 8. References 
 
