@@ -8,8 +8,8 @@
 - Author : *Sriharsha Nemalikonda*
 - Link to the author's GitHub profile : https://github.com/nsriharsha04
 - Link to the author's LinkedIn profile : https://www.linkedin.com/in/sriharsha-n/
-<!-- - Link to your PowerPoint presentation file
-- Link to your  YouTube video  -->
+- Link to PowerPoint presentation file : [Presentation.pptx](./Presentation.pptx)
+- Link to YouTube video : https://www.youtube.com/watch?v=3Wzc2l1T_vE&ab_channel=SriharshaNemalikonda
     
 ## 2. Background
 
